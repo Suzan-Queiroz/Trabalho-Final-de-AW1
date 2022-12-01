@@ -1,0 +1,51 @@
+body{background-color:#00FF7F; font-family: Verdana; text-align: center; font-size: 20px;}
+
+#div-1{display:block; text-align:center; background-color:#32CD32;}
+
+#div-2{
+    display:inline-block; font-size:20px; 
+    text-align:center; font-weight:bold; 
+    width:350px; padding:12px; background-color: #ADFF2F;
+}
+
+#div-3{
+    display:inline-block; font-size:20px;
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #ADFF2F;
+}
+
+#div-4{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #ADFF2F;
+}
+
+#div-5{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #ADFF2F;
+}
+
+#div-6{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #ADFF2F;
+}
+
+#div-7{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:272px; padding:12px; background-color: #ADFF2F;
+}
+
+#div-8{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:292px; padding:12px; background-color: #ADFF2F;
+}
+
+#div-9{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #ADFF2F;
+}
